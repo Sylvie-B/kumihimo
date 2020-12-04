@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+}
+
+#decor{
+    background-image: url("decorK.png");
+    height: 10vh;
+}
+
+#titre{
+    text-align: center;
+
+}
+
+#titre, h2{
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 1vw;
+    margin: 5vh 0 5vh 0;
+}
+
+section{
+    width: 90%;
+    margin: auto;
+    font-family: sans-serif;
+    font-size: 1vw;
+}
+
